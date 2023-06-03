@@ -12,3 +12,4 @@ Python programming language is used for developing the  virtual mouse system. In
 ➢	PyautoGUI  
  
 
+![image](https://github.com/rakshitasachan/virtual_mouse/assets/108584958/0bc52b1f-7a75-4f6d-92a3-61c8a6bc18ac)
