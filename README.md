@@ -13,3 +13,10 @@ Python programming language is used for developing the  virtual mouse system. In
  
 
 ![image](https://github.com/rakshitasachan/virtual_mouse/assets/108584958/0bc52b1f-7a75-4f6d-92a3-61c8a6bc18ac)
+
+output:
+
+![image](https://github.com/rakshitasachan/virtual_mouse/assets/108584958/24e0a2bb-992c-4f5f-8cf4-30b8bb3ceeb7)
+
+![image](https://github.com/rakshitasachan/virtual_mouse/assets/108584958/41e3cefb-1625-4975-8c87-dc5149720433)
+
